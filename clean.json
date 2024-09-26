@@ -1,0 +1,3917 @@
+[
+  {
+    "url": "https://appmedia.jp/pando-land/77949008",
+    "name": "\u30b8\u30e3\u30f3\u30cc\u30c0\u30eb\u30af",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "653",
+      "\u653b\u6483": "323",
+      "\u9632\u5fa1": "465",
+      "\u7d20\u65e9\u3055": "373",
+      "\u8ce2\u3055": "653",
+      "\u904b": "515"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949011",
+    "name": "\u30b7\u30e3\u30eb\u30ed\u30c3\u30c8",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "601",
+      "\u653b\u6483": "468",
+      "\u9632\u5fa1": "521",
+      "\u7d20\u65e9\u3055": "571",
+      "\u8ce2\u3055": "268",
+      "\u904b": "751"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949014",
+    "name": "\u30b9\u30c6\u30a3\u30fc\u30d6",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "497",
+      "\u653b\u6483": "535",
+      "\u9632\u5fa1": "408",
+      "\u7d20\u65e9\u3055": "408",
+      "\u8ce2\u3055": "685",
+      "\u904b": "547"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949017",
+    "name": "\u30e1\u30a2\u30ea\u30fc",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "549",
+      "\u653b\u6483": "457",
+      "\u9632\u5fa1": "584",
+      "\u7d20\u65e9\u3055": "499",
+      "\u8ce2\u3055": "457",
+      "\u904b": "634"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949020",
+    "name": "\u30a2\u30fc\u30ce\u30eb\u30c9",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "531",
+      "\u653b\u6483": "753",
+      "\u9632\u5fa1": "306",
+      "\u7d20\u65e9\u3055": "653",
+      "\u8ce2\u3055": "481",
+      "\u904b": "456"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949023",
+    "name": "\u30a8\u30fc\u30b8\u30a7\u30f3\u30c8\u30fbF",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "470",
+      "\u653b\u6483": "592",
+      "\u9632\u5fa1": "528",
+      "\u7d20\u65e9\u3055": "742",
+      "\u8ce2\u3055": "478",
+      "\u904b": "370"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949026",
+    "name": "\u7e54\u7530\u4fe1\u9577",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "416",
+      "\u653b\u6483": "800",
+      "\u9632\u5fa1": "374",
+      "\u7d20\u65e9\u3055": "416",
+      "\u8ce2\u3055": "750",
+      "\u904b": "424"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949029",
+    "name": "\u304a\u7f8e\u591c",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "531",
+      "\u653b\u6483": "634",
+      "\u9632\u5fa1": "425",
+      "\u7d20\u65e9\u3055": "734",
+      "\u8ce2\u3055": "531",
+      "\u904b": "325"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949032",
+    "name": "\u3061\u3055\u3068",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "682",
+      "\u653b\u6483": "378",
+      "\u9632\u5fa1": "530",
+      "\u7d20\u65e9\u3055": "882",
+      "\u8ce2\u3055": "328",
+      "\u904b": "380"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949035",
+    "name": "\u5929\u9f8d",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "411",
+      "\u653b\u6483": "735",
+      "\u9632\u5fa1": "444",
+      "\u7d20\u65e9\u3055": "735",
+      "\u8ce2\u3055": "444",
+      "\u904b": "411"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949038",
+    "name": "\u30d3\u30a2\u30f3\u30ab",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "407",
+      "\u653b\u6483": "743",
+      "\u9632\u5fa1": "440",
+      "\u7d20\u65e9\u3055": "540",
+      "\u8ce2\u3055": "307",
+      "\u904b": "743"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949041",
+    "name": "\u30d0\u30eb\u30d0\u30ed\u30b9",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "367",
+      "\u653b\u6483": "592",
+      "\u9632\u5fa1": "631",
+      "\u7d20\u65e9\u3055": "531",
+      "\u8ce2\u3055": "542",
+      "\u904b": "517"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949044",
+    "name": "\u59cb\u7687\u5e1d",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "525",
+      "\u653b\u6483": "692",
+      "\u9632\u5fa1": "373",
+      "\u7d20\u65e9\u3055": "423",
+      "\u8ce2\u3055": "642",
+      "\u904b": "525"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949047",
+    "name": "\u8af8\u845b\u5b54\u660e",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "637",
+      "\u653b\u6483": "368",
+      "\u9632\u5fa1": "535",
+      "\u7d20\u65e9\u3055": "268",
+      "\u8ce2\u3055": "887",
+      "\u904b": "485"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949050",
+    "name": "\u59b2\u5df1",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "409",
+      "\u653b\u6483": "697",
+      "\u9632\u5fa1": "484",
+      "\u7d20\u65e9\u3055": "584",
+      "\u8ce2\u3055": "697",
+      "\u904b": "309"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949053",
+    "name": "\u5b6b\u609f\u7a7a",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "515",
+      "\u653b\u6483": "748",
+      "\u9632\u5fa1": "327",
+      "\u7d20\u65e9\u3055": "748",
+      "\u8ce2\u3055": "415",
+      "\u904b": "427"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949056",
+    "name": "\u30a8\u30c9\u30ef\u30fc\u30c9\u9ed2\u592a\u5b50",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "362",
+      "\u653b\u6483": "703",
+      "\u9632\u5fa1": "525",
+      "\u7d20\u65e9\u3055": "525",
+      "\u8ce2\u3055": "462",
+      "\u904b": "603"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949059",
+    "name": "\u68ee\u306b\u4f4f\u307e\u3046\u5c11\u5e74",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "527",
+      "\u653b\u6483": "734",
+      "\u9632\u5fa1": "329",
+      "\u7d20\u65e9\u3055": "634",
+      "\u8ce2\u3055": "429",
+      "\u904b": "527"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949062",
+    "name": "\u30eb\u30fc",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "425",
+      "\u653b\u6483": "417",
+      "\u9632\u5fa1": "748",
+      "\u7d20\u65e9\u3055": "475",
+      "\u8ce2\u3055": "598",
+      "\u904b": "517"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949065",
+    "name": "\u30ad\u30e3\u30b5\u30ea\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "693",
+      "\u653b\u6483": "531",
+      "\u9632\u5fa1": "366",
+      "\u7d20\u65e9\u3055": "593",
+      "\u8ce2\u3055": "581",
+      "\u904b": "416"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949068",
+    "name": "\u30ab\u30fc\u30cd\u30eb",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "358",
+      "\u653b\u6483": "794",
+      "\u9632\u5fa1": "438",
+      "\u7d20\u65e9\u3055": "644",
+      "\u8ce2\u3055": "358",
+      "\u904b": "588"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949071",
+    "name": "\u30a8\u30e1\u30c3\u30c8",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "372",
+      "\u653b\u6483": "730",
+      "\u9632\u5fa1": "438",
+      "\u7d20\u65e9\u3055": "488",
+      "\u8ce2\u3055": "680",
+      "\u904b": "422"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949074",
+    "name": "\u60aa\u9b54\u5deb\u5973",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "634",
+      "\u653b\u6483": "533",
+      "\u9632\u5fa1": "422",
+      "\u7d20\u65e9\u3055": "533",
+      "\u8ce2\u3055": "634",
+      "\u904b": "422"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949077",
+    "name": "\u5fb3\u5ddd\u5bb6\u5eb7",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "733",
+      "\u653b\u6483": "305",
+      "\u9632\u5fa1": "551",
+      "\u7d20\u65e9\u3055": "305",
+      "\u8ce2\u3055": "633",
+      "\u904b": "651"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949080",
+    "name": "\u540d\u7121\u3057\u306e\u5996\u602a\u72e9\u308a",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "473",
+      "\u653b\u6483": "803",
+      "\u9632\u5fa1": "314",
+      "\u7d20\u65e9\u3055": "523",
+      "\u8ce2\u3055": "414",
+      "\u904b": "653"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949083",
+    "name": "\u30ec\u30a4\u30c1\u30a7\u30eb",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "638",
+      "\u653b\u6483": "420",
+      "\u9632\u5fa1": "533",
+      "\u7d20\u65e9\u3055": "370",
+      "\u8ce2\u3055": "583",
+      "\u904b": "638"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949086",
+    "name": "\u30a6\u30a3\u30ea\u30a2\u30e0",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "601",
+      "\u653b\u6483": "528",
+      "\u9632\u5fa1": "462",
+      "\u7d20\u65e9\u3055": "601",
+      "\u8ce2\u3055": "528",
+      "\u904b": "462"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949089",
+    "name": "\u6c37\u708e\u306e\u60aa\u9b54",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "509",
+      "\u653b\u6483": "535",
+      "\u9632\u5fa1": "546",
+      "\u7d20\u65e9\u3055": "535",
+      "\u8ce2\u3055": "546",
+      "\u904b": "509"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949092",
+    "name": "\u80e1\u8776",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "635",
+      "\u653b\u6483": "421",
+      "\u9632\u5fa1": "535",
+      "\u7d20\u65e9\u3055": "535",
+      "\u8ce2\u3055": "535",
+      "\u904b": "521"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949095",
+    "name": "\u307d\u3093\u5b50",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "697",
+      "\u653b\u6483": "411",
+      "\u9632\u5fa1": "482",
+      "\u7d20\u65e9\u3055": "532",
+      "\u8ce2\u3055": "411",
+      "\u904b": "647"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949098",
+    "name": "\u30b7\u30b9\u30bf\u30fc\u30fb\u30a2\u30f3\u30b8\u30a7\u30e9",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "602",
+      "\u653b\u6483": "479",
+      "\u9632\u5fa1": "509",
+      "\u7d20\u65e9\u3055": "429",
+      "\u8ce2\u3055": "602",
+      "\u904b": "559"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949101",
+    "name": "\u30e1\u30ea\u30a8\u30e0",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "491",
+      "\u653b\u6483": "686",
+      "\u9632\u5fa1": "414",
+      "\u7d20\u65e9\u3055": "586",
+      "\u8ce2\u3055": "464",
+      "\u904b": "541"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949104",
+    "name": "\u60aa\u9b54\u72fc",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "471",
+      "\u653b\u6483": "639",
+      "\u9632\u5fa1": "480",
+      "\u7d20\u65e9\u3055": "639",
+      "\u8ce2\u3055": "480",
+      "\u904b": "471"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949107",
+    "name": "\u30ad\u30f3\u30b0\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "520",
+      "\u653b\u6483": "673",
+      "\u9632\u5fa1": "367",
+      "\u7d20\u65e9\u3055": "523",
+      "\u8ce2\u3055": "520",
+      "\u904b": "517"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949110",
+    "name": "\u30b1\u30f3\u30bf\u30a6\u30ed\u30b9",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "458",
+      "\u653b\u6483": "684",
+      "\u9632\u5fa1": "418",
+      "\u7d20\u65e9\u3055": "734",
+      "\u8ce2\u3055": "268",
+      "\u904b": "558"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949113",
+    "name": "\u30c8\u30ed\u30eb",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "502",
+      "\u653b\u6483": "540",
+      "\u9632\u5fa1": "518",
+      "\u7d20\u65e9\u3055": "540",
+      "\u8ce2\u3055": "518",
+      "\u904b": "502"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949116",
+    "name": "\u30de\u30b7\u30f3\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "359",
+      "\u653b\u6483": "419",
+      "\u9632\u5fa1": "782",
+      "\u7d20\u65e9\u3055": "409",
+      "\u8ce2\u3055": "682",
+      "\u904b": "469"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949119",
+    "name": "\u30be\u30f3\u30d3\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "736",
+      "\u653b\u6483": "517",
+      "\u9632\u5fa1": "307",
+      "\u7d20\u65e9\u3055": "357",
+      "\u8ce2\u3055": "517",
+      "\u904b": "686"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949122",
+    "name": "\u30a8\u30ea\u30fc\u30c8\u9a0e\u58eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "544",
+      "\u653b\u6483": "520",
+      "\u9632\u5fa1": "395",
+      "\u7d20\u65e9\u3055": "445",
+      "\u8ce2\u3055": "594",
+      "\u904b": "620"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949125",
+    "name": "\u597d\u6226\u7684\u306a\u6226\u58eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "412",
+      "\u653b\u6483": "630",
+      "\u9632\u5fa1": "518",
+      "\u7d20\u65e9\u3055": "730",
+      "\u8ce2\u3055": "212",
+      "\u904b": "618"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949128",
+    "name": "\u4eba\u98df\u3044\u690d\u7269",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "351",
+      "\u653b\u6483": "692",
+      "\u9632\u5fa1": "418",
+      "\u7d20\u65e9\u3055": "401",
+      "\u8ce2\u3055": "518",
+      "\u904b": "742"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949131",
+    "name": "\u907a\u8de1\u63a2\u691c\u5bb6",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "584",
+      "\u653b\u6483": "364",
+      "\u9632\u5fa1": "513",
+      "\u7d20\u65e9\u3055": "413",
+      "\u8ce2\u3055": "834",
+      "\u904b": "414"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949134",
+    "name": "\u30ab\u30a6\u30dc\u30fc\u30a4",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "463",
+      "\u653b\u6483": "736",
+      "\u9632\u5fa1": "361",
+      "\u7d20\u65e9\u3055": "413",
+      "\u8ce2\u3055": "411",
+      "\u904b": "736"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949137",
+    "name": "\u4fdd\u5b89\u5b98",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "454",
+      "\u653b\u6483": "640",
+      "\u9632\u5fa1": "465",
+      "\u7d20\u65e9\u3055": "404",
+      "\u8ce2\u3055": "640",
+      "\u904b": "515"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949140",
+    "name": "\u30db\u30e9\u30fc\u30de\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "359",
+      "\u653b\u6483": "790",
+      "\u9632\u5fa1": "312",
+      "\u7d20\u65e9\u3055": "312",
+      "\u8ce2\u3055": "640",
+      "\u904b": "609"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949143",
+    "name": "UFO",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "479",
+      "\u653b\u6483": "357",
+      "\u9632\u5fa1": "723",
+      "\u7d20\u65e9\u3055": "529",
+      "\u8ce2\u3055": "623",
+      "\u904b": "407"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949146",
+    "name": "\u30d4\u30a8\u30ed",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "521",
+      "\u653b\u6483": "583",
+      "\u9632\u5fa1": "456",
+      "\u7d20\u65e9\u3055": "633",
+      "\u8ce2\u3055": "521",
+      "\u904b": "406"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949149",
+    "name": "\u767d\u9a0e\u99ac",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "420",
+      "\u653b\u6483": "583",
+      "\u9632\u5fa1": "458",
+      "\u7d20\u65e9\u3055": "783",
+      "\u8ce2\u3055": "420",
+      "\u904b": "458"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949152",
+    "name": "\u9670\u967d\u5e2b",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "695",
+      "\u653b\u6483": "413",
+      "\u9632\u5fa1": "452",
+      "\u7d20\u65e9\u3055": "263",
+      "\u8ce2\u3055": "502",
+      "\u904b": "795"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949155",
+    "name": "\u4f8d",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "401",
+      "\u653b\u6483": "731",
+      "\u9632\u5fa1": "428",
+      "\u7d20\u65e9\u3055": "531",
+      "\u8ce2\u3055": "528",
+      "\u904b": "501"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949158",
+    "name": "\u9b3c\u5c06\u8ecd",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "412",
+      "\u653b\u6483": "409",
+      "\u9632\u5fa1": "739",
+      "\u7d20\u65e9\u3055": "362",
+      "\u8ce2\u3055": "509",
+      "\u904b": "689"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949161",
+    "name": "\u5929\u72d7",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "643",
+      "\u653b\u6483": "354",
+      "\u9632\u5fa1": "564",
+      "\u7d20\u65e9\u3055": "643",
+      "\u8ce2\u3055": "404",
+      "\u904b": "514"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949164",
+    "name": "\u304c\u3057\u3083\u9ad1\u9acf",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "637",
+      "\u653b\u6483": "359",
+      "\u9632\u5fa1": "564",
+      "\u7d20\u65e9\u3055": "459",
+      "\u8ce2\u3055": "514",
+      "\u904b": "587"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949167",
+    "name": "\u708e\u306e\u60aa\u9b54",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "576",
+      "\u653b\u6483": "634",
+      "\u9632\u5fa1": "349",
+      "\u7d20\u65e9\u3055": "534",
+      "\u8ce2\u3055": "526",
+      "\u904b": "499"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949170",
+    "name": "\u6c37\u306e\u60aa\u9b54",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "355",
+      "\u653b\u6483": "632",
+      "\u9632\u5fa1": "573",
+      "\u7d20\u65e9\u3055": "532",
+      "\u8ce2\u3055": "523",
+      "\u904b": "505"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949173",
+    "name": "\u5927\u9b54\u8853\u5e2b",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "573",
+      "\u653b\u6483": "455",
+      "\u9632\u5fa1": "532",
+      "\u7d20\u65e9\u3055": "305",
+      "\u8ce2\u3055": "773",
+      "\u904b": "482"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949176",
+    "name": "\u6b4c\u821e\u4f0e\u5f79\u8005",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "315",
+      "\u653b\u6483": "722",
+      "\u9632\u5fa1": "523",
+      "\u7d20\u65e9\u3055": "523",
+      "\u8ce2\u3055": "265",
+      "\u904b": "772"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949179",
+    "name": "\u30a4\u30f3\u30d9\u30fc\u30c0\u30fc",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "520",
+      "\u653b\u6483": "638",
+      "\u9632\u5fa1": "402",
+      "\u7d20\u65e9\u3055": "470",
+      "\u8ce2\u3055": "688",
+      "\u904b": "402"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949182",
+    "name": "\u30ac\u30a4\u30b3\u30c4\u306e\u6b66\u5c06",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "397",
+      "\u653b\u6483": "725",
+      "\u9632\u5fa1": "438",
+      "\u7d20\u65e9\u3055": "247",
+      "\u8ce2\u3055": "638",
+      "\u904b": "675"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949185",
+    "name": "\u30ab\u30f3\u30d5\u30fc\u30bf\u30a4\u30ac\u30fc",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "361",
+      "\u653b\u6483": "734",
+      "\u9632\u5fa1": "465",
+      "\u7d20\u65e9\u3055": "584",
+      "\u8ce2\u3055": "461",
+      "\u904b": "515"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949188",
+    "name": "\u5de8\u5927\u30a4\u30b0\u30a2\u30ca",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "692",
+      "\u653b\u6483": "366",
+      "\u9632\u5fa1": "502",
+      "\u7d20\u65e9\u3055": "416",
+      "\u8ce2\u3055": "592",
+      "\u904b": "552"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949191",
+    "name": "\u30d5\u30a7\u30a2\u30ea\u30fc",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "635",
+      "\u653b\u6483": "315",
+      "\u9632\u5fa1": "310",
+      "\u7d20\u65e9\u3055": "460",
+      "\u8ce2\u3055": "515",
+      "\u904b": "885"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949194",
+    "name": "\u72fc\u4eba\u9593",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "776",
+      "\u653b\u6483": "355",
+      "\u9632\u5fa1": "429",
+      "\u7d20\u65e9\u3055": "626",
+      "\u8ce2\u3055": "529",
+      "\u904b": "405"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949197",
+    "name": "\u30da\u30ac\u30b5\u30b9",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "419",
+      "\u653b\u6483": "529",
+      "\u9632\u5fa1": "362",
+      "\u7d20\u65e9\u3055": "519",
+      "\u8ce2\u3055": "579",
+      "\u904b": "512"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949200",
+    "name": "\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "467",
+      "\u653b\u6483": "481",
+      "\u9632\u5fa1": "462",
+      "\u7d20\u65e9\u3055": "462",
+      "\u8ce2\u3055": "781",
+      "\u904b": "467"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949203",
+    "name": "\u30b4\u30d6\u30ea\u30f3\u30e9\u30a4\u30c0\u30fc",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "440",
+      "\u653b\u6483": "772",
+      "\u9632\u5fa1": "348",
+      "\u7d20\u65e9\u3055": "772",
+      "\u8ce2\u3055": "248",
+      "\u904b": "540"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949206",
+    "name": "\u9a0e\u99ac\u6b66\u8005",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "410",
+      "\u653b\u6483": "733",
+      "\u9632\u5fa1": "417",
+      "\u7d20\u65e9\u3055": "733",
+      "\u8ce2\u3055": "417",
+      "\u904b": "410"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949209",
+    "name": "\u5fa9\u8b90\u306b\u71c3\u3048\u308b\u7537",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "428",
+      "\u653b\u6483": "779",
+      "\u9632\u5fa1": "354",
+      "\u7d20\u65e9\u3055": "578",
+      "\u8ce2\u3055": "679",
+      "\u904b": "304"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949212",
+    "name": "\u30cf\u30ed\u30a6\u30a3\u30f3\u30de\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "588",
+      "\u653b\u6483": "446",
+      "\u9632\u5fa1": "525",
+      "\u7d20\u65e9\u3055": "588",
+      "\u8ce2\u3055": "575",
+      "\u904b": "396"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949215",
+    "name": "\u3072\u306e\u3068\u308a",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "785",
+      "\u653b\u6483": "303",
+      "\u9632\u5fa1": "472",
+      "\u7d20\u65e9\u3055": "585",
+      "\u8ce2\u3055": "453",
+      "\u904b": "522"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949218",
+    "name": "\u30a2\u30f3\u30e2\u30ca\u30a4\u30c8",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "424",
+      "\u653b\u6483": "297",
+      "\u9632\u5fa1": "839",
+      "\u7d20\u65e9\u3055": "397",
+      "\u8ce2\u3055": "589",
+      "\u904b": "574"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949221",
+    "name": "\u30de\u30f3\u30dc\u30a6",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "401",
+      "\u653b\u6483": "442",
+      "\u9632\u5fa1": "417",
+      "\u7d20\u65e9\u3055": "617",
+      "\u8ce2\u3055": "301",
+      "\u904b": "792"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949224",
+    "name": "\u4eee\u9762\u306e\u6226\u58eb",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "692",
+      "\u653b\u6483": "403",
+      "\u9632\u5fa1": "465",
+      "\u7d20\u65e9\u3055": "642",
+      "\u8ce2\u3055": "303",
+      "\u904b": "615"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949227",
+    "name": "\u5c4d\u6b66\u5c06",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "400",
+      "\u653b\u6483": "467",
+      "\u9632\u5fa1": "693",
+      "\u7d20\u65e9\u3055": "400",
+      "\u8ce2\u3055": "693",
+      "\u904b": "467"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949230",
+    "name": "\u30cd\u30c3\u30b7\u30fc",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "577",
+      "\u653b\u6483": "345",
+      "\u9632\u5fa1": "488",
+      "\u7d20\u65e9\u3055": "527",
+      "\u8ce2\u3055": "538",
+      "\u904b": "445"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949233",
+    "name": "\u30b4\u30fc\u30ec\u30e0",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "412",
+      "\u653b\u6483": "517",
+      "\u9632\u5fa1": "631",
+      "\u7d20\u65e9\u3055": "312",
+      "\u8ce2\u3055": "417",
+      "\u904b": "631"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949236",
+    "name": "\u5973\u6d77\u8cca",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "587",
+      "\u653b\u6483": "415",
+      "\u9632\u5fa1": "508",
+      "\u7d20\u65e9\u3055": "465",
+      "\u8ce2\u3055": "637",
+      "\u904b": "508"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949239",
+    "name": "\u4fee\u7406\u5de5\u5c11\u5973",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "455",
+      "\u653b\u6483": "476",
+      "\u9632\u5fa1": "628",
+      "\u7d20\u65e9\u3055": "405",
+      "\u8ce2\u3055": "678",
+      "\u904b": "476"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949242",
+    "name": "\u30d0\u30a4\u30ad\u30f3\u30b0\u30ec\u30c7\u30a3",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "411",
+      "\u653b\u6483": "524",
+      "\u9632\u5fa1": "624",
+      "\u7d20\u65e9\u3055": "524",
+      "\u8ce2\u3055": "411",
+      "\u904b": "624"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949245",
+    "name": "\u30ab\u30f3\u30d5\u30fc\u30ec\u30c7\u30a3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "361",
+      "\u653b\u6483": "630",
+      "\u9632\u5fa1": "569",
+      "\u7d20\u65e9\u3055": "630",
+      "\u8ce2\u3055": "411",
+      "\u904b": "519"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949248",
+    "name": "\u69cd\u6226\u58eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "403",
+      "\u653b\u6483": "728",
+      "\u9632\u5fa1": "399",
+      "\u7d20\u65e9\u3055": "578",
+      "\u8ce2\u3055": "453",
+      "\u904b": "499"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949251",
+    "name": "\u91cd\u6226\u58eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "524",
+      "\u653b\u6483": "288",
+      "\u9632\u5fa1": "718",
+      "\u7d20\u65e9\u3055": "338",
+      "\u8ce2\u3055": "618",
+      "\u904b": "574"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949254",
+    "name": "\u30ea\u30c8\u30eb\u30d5\u30a1\u30a4\u30a2\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "401",
+      "\u653b\u6483": "480",
+      "\u9632\u5fa1": "399",
+      "\u7d20\u65e9\u3055": "780",
+      "\u8ce2\u3055": "499",
+      "\u904b": "501"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949257",
+    "name": "\u30d5\u30ed\u30c3\u30b0\u30a6\u30a3\u30c3\u30c1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "515",
+      "\u653b\u6483": "468",
+      "\u9632\u5fa1": "447",
+      "\u7d20\u65e9\u3055": "347",
+      "\u8ce2\u3055": "715",
+      "\u904b": "568"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949260",
+    "name": "\u5175\u58eb\u72ac",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "400",
+      "\u653b\u6483": "420",
+      "\u9632\u5fa1": "611",
+      "\u7d20\u65e9\u3055": "400",
+      "\u8ce2\u3055": "520",
+      "\u904b": "711"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949263",
+    "name": "\u93a7\u99ac",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "676",
+      "\u653b\u6483": "343",
+      "\u9632\u5fa1": "511",
+      "\u7d20\u65e9\u3055": "726",
+      "\u8ce2\u3055": "411",
+      "\u904b": "393"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949266",
+    "name": "\u30ac\u30a4\u30b3\u30c4\u8239\u9577",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "404",
+      "\u653b\u6483": "564",
+      "\u9632\u5fa1": "462",
+      "\u7d20\u65e9\u3055": "462",
+      "\u8ce2\u3055": "614",
+      "\u904b": "404"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949269",
+    "name": "\u5148\u4f4f\u6c11\u65cf",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "670",
+      "\u653b\u6483": "517",
+      "\u9632\u5fa1": "344",
+      "\u7d20\u65e9\u3055": "620",
+      "\u8ce2\u3055": "294",
+      "\u904b": "617"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949272",
+    "name": "\u30c8\u30e9",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "516",
+      "\u653b\u6483": "714",
+      "\u9632\u5fa1": "300",
+      "\u7d20\u65e9\u3055": "664",
+      "\u8ce2\u3055": "350",
+      "\u904b": "516"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949278",
+    "name": "\u30b0\u30ea\u30ba\u30ea\u30fc",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "712",
+      "\u653b\u6483": "482",
+      "\u9632\u5fa1": "336",
+      "\u7d20\u65e9\u3055": "612",
+      "\u8ce2\u3055": "386",
+      "\u904b": "532"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949281",
+    "name": "\u30cf\u30af\u30c8\u30a6\u30ef\u30b7",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "316",
+      "\u653b\u6483": "529",
+      "\u9632\u5fa1": "235",
+      "\u7d20\u65e9\u3055": "679",
+      "\u8ce2\u3055": "516",
+      "\u904b": "335"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949284",
+    "name": "\u611b\u3092\u53eb\u3076\u7537",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "617",
+      "\u653b\u6483": "336",
+      "\u9632\u5fa1": "577",
+      "\u7d20\u65e9\u3055": "386",
+      "\u8ce2\u3055": "527",
+      "\u904b": "617"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949287",
+    "name": "\u5e73\u548c\u3092\u53eb\u3076\u5973",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "597",
+      "\u653b\u6483": "308",
+      "\u9632\u5fa1": "625",
+      "\u7d20\u65e9\u3055": "408",
+      "\u8ce2\u3055": "575",
+      "\u904b": "547"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949290",
+    "name": "\u30d0\u30a4\u30bd\u30f3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "575",
+      "\u653b\u6483": "666",
+      "\u9632\u5fa1": "290",
+      "\u7d20\u65e9\u3055": "616",
+      "\u8ce2\u3055": "290",
+      "\u904b": "625"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949293",
+    "name": "\u69cd\u4f7f\u3044\u306e\u96d1\u5175",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "349",
+      "\u653b\u6483": "612",
+      "\u9632\u5fa1": "569",
+      "\u7d20\u65e9\u3055": "399",
+      "\u8ce2\u3055": "519",
+      "\u904b": "612"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949296",
+    "name": "\u5f13\u4f7f\u3044\u306e\u8db3\u8efd",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "563",
+      "\u653b\u6483": "624",
+      "\u9632\u5fa1": "344",
+      "\u7d20\u65e9\u3055": "624",
+      "\u8ce2\u3055": "463",
+      "\u904b": "444"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949299",
+    "name": "\u30ab\u30c3\u30d1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "503",
+      "\u653b\u6483": "513",
+      "\u9632\u5fa1": "513",
+      "\u7d20\u65e9\u3055": "563",
+      "\u8ce2\u3055": "453",
+      "\u904b": "513"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949302",
+    "name": "\u5510\u5098\u304a\u3070\u3051",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "518",
+      "\u653b\u6483": "345",
+      "\u9632\u5fa1": "667",
+      "\u7d20\u65e9\u3055": "617",
+      "\u8ce2\u3055": "518",
+      "\u904b": "395"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949305",
+    "name": "\u63d0\u706f\u304a\u3070\u3051",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "516",
+      "\u653b\u6483": "576",
+      "\u9632\u5fa1": "438",
+      "\u7d20\u65e9\u3055": "388",
+      "\u8ce2\u3055": "626",
+      "\u904b": "516"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949308",
+    "name": "\u30cb\u30db\u30f3\u30aa\u30aa\u30ab\u30df",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "257",
+      "\u653b\u6483": "721",
+      "\u9632\u5fa1": "403",
+      "\u7d20\u65e9\u3055": "671",
+      "\u8ce2\u3055": "503",
+      "\u904b": "507"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949311",
+    "name": "\u9ad1\u9acf\u6b66\u8005",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "409",
+      "\u653b\u6483": "783",
+      "\u9632\u5fa1": "338",
+      "\u7d20\u65e9\u3055": "459",
+      "\u8ce2\u3055": "438",
+      "\u904b": "633"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949314",
+    "name": "\u30ac\u30fc\u30b4\u30a4\u30eb",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "308",
+      "\u653b\u6483": "443",
+      "\u9632\u5fa1": "779",
+      "\u7d20\u65e9\u3055": "579",
+      "\u8ce2\u3055": "408",
+      "\u904b": "543"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949317",
+    "name": "\u30b9\u30e9\u30a4\u30e0",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "575",
+      "\u653b\u6483": "407",
+      "\u9632\u5fa1": "398",
+      "\u7d20\u65e9\u3055": "457",
+      "\u8ce2\u3055": "398",
+      "\u904b": "525"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949320",
+    "name": "\u534a\u9b5a\u4eba",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "357",
+      "\u653b\u6483": "679",
+      "\u9632\u5fa1": "494",
+      "\u7d20\u65e9\u3055": "407",
+      "\u8ce2\u3055": "629",
+      "\u904b": "494"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949323",
+    "name": "\u865a\u7121\u50e7",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "564",
+      "\u653b\u6483": "386",
+      "\u9632\u5fa1": "580",
+      "\u7d20\u65e9\u3055": "336",
+      "\u8ce2\u3055": "414",
+      "\u904b": "780"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949326",
+    "name": "\u30ab\u30e1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "459",
+      "\u653b\u6483": "301",
+      "\u9632\u5fa1": "770",
+      "\u7d20\u65e9\u3055": "301",
+      "\u8ce2\u3055": "559",
+      "\u904b": "670"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949329",
+    "name": "\u30e1\u30c3\u30c8\u30d0\u30fc\u30c9",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "244",
+      "\u653b\u6483": "502",
+      "\u9632\u5fa1": "684",
+      "\u7d20\u65e9\u3055": "444",
+      "\u8ce2\u3055": "502",
+      "\u904b": "584"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949332",
+    "name": "\u30ad\u30f3\u30b0\u30ed\u30d6\u30b9\u30bf\u30fc",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "394",
+      "\u653b\u6483": "624",
+      "\u9632\u5fa1": "512",
+      "\u7d20\u65e9\u3055": "344",
+      "\u8ce2\u3055": "774",
+      "\u904b": "412"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949335",
+    "name": "\u30aa\u30a6\u30e0",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "584",
+      "\u653b\u6483": "356",
+      "\u9632\u5fa1": "491",
+      "\u7d20\u65e9\u3055": "541",
+      "\u8ce2\u3055": "784",
+      "\u904b": "306"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949338",
+    "name": "\u5fcd\u8005",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "531",
+      "\u653b\u6483": "561",
+      "\u9632\u5fa1": "339",
+      "\u7d20\u65e9\u3055": "661",
+      "\u8ce2\u3055": "581",
+      "\u904b": "389"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949341",
+    "name": "\u30a4\u30ce\u30b7\u30b7",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "291",
+      "\u653b\u6483": "629",
+      "\u9632\u5fa1": "411",
+      "\u7d20\u65e9\u3055": "629",
+      "\u8ce2\u3055": "291",
+      "\u904b": "511"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949344",
+    "name": "\u30b5\u30e1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "444",
+      "\u653b\u6483": "678",
+      "\u9632\u5fa1": "408",
+      "\u7d20\u65e9\u3055": "628",
+      "\u8ce2\u3055": "408",
+      "\u904b": "494"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949347",
+    "name": "TAXI",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "497",
+      "\u653b\u6483": "624",
+      "\u9632\u5fa1": "409",
+      "\u7d20\u65e9\u3055": "874",
+      "\u8ce2\u3055": "347",
+      "\u904b": "309"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949350",
+    "name": "\u30ea\u30c8\u30eb\u30ef\u30a4\u30d0\u30fc\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "455",
+      "\u653b\u6483": "680",
+      "\u9632\u5fa1": "395",
+      "\u7d20\u65e9\u3055": "630",
+      "\u8ce2\u3055": "395",
+      "\u904b": "505"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949353",
+    "name": "\u30cf\u30cb\u30ef\u9a0e\u5175",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "461",
+      "\u653b\u6483": "403",
+      "\u9632\u5fa1": "665",
+      "\u7d20\u65e9\u3055": "665",
+      "\u8ce2\u3055": "511",
+      "\u904b": "353"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949356",
+    "name": "\u7267\u5834\u306e\u304a\u3058\u3044\u3055\u3093",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "612",
+      "\u653b\u6483": "386",
+      "\u9632\u5fa1": "531",
+      "\u7d20\u65e9\u3055": "386",
+      "\u8ce2\u3055": "531",
+      "\u904b": "612"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949359",
+    "name": "\u30b9\u30b1\u30dc\u30fc\u5c11\u5e74",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "567",
+      "\u653b\u6483": "509",
+      "\u9632\u5fa1": "454",
+      "\u7d20\u65e9\u3055": "667",
+      "\u8ce2\u3055": "404",
+      "\u904b": "459"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949362",
+    "name": "\u30c8\u30b2\u30a6\u30c4\u30dc",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "346",
+      "\u653b\u6483": "671",
+      "\u9632\u5fa1": "412",
+      "\u7d20\u65e9\u3055": "721",
+      "\u8ce2\u3055": "396",
+      "\u904b": "512"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949365",
+    "name": "\u6c5f\u6238\u732b",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "501",
+      "\u653b\u6483": "303",
+      "\u9632\u5fa1": "576",
+      "\u7d20\u65e9\u3055": "676",
+      "\u8ce2\u3055": "601",
+      "\u904b": "303"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949368",
+    "name": "\u30ad\u30ea\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "526",
+      "\u653b\u6483": "665",
+      "\u9632\u5fa1": "339",
+      "\u7d20\u65e9\u3055": "389",
+      "\u8ce2\u3055": "615",
+      "\u904b": "526"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949371",
+    "name": "\u30d2\u30b2\u9762\u306e\u6d77\u8cca",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "389",
+      "\u653b\u6483": "711",
+      "\u9632\u5fa1": "431",
+      "\u7d20\u65e9\u3055": "611",
+      "\u8ce2\u3055": "339",
+      "\u904b": "581"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949374",
+    "name": "\u30ca\u30be\u30ce\u30d2\u30c8",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "575",
+      "\u653b\u6483": "131",
+      "\u9632\u5fa1": "402",
+      "\u7d20\u65e9\u3055": "402",
+      "\u8ce2\u3055": "502",
+      "\u904b": "625"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949377",
+    "name": "\u30ca\u30be\u30ce\u30b1\u30e2\u30ce",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "412",
+      "\u653b\u6483": "565",
+      "\u9632\u5fa1": "132",
+      "\u7d20\u65e9\u3055": "615",
+      "\u8ce2\u3055": "403",
+      "\u904b": "512"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949380",
+    "name": "\u30ca\u30be\u30ce\u30c8\u30ea",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "159",
+      "\u653b\u6483": "356",
+      "\u9632\u5fa1": "467",
+      "\u7d20\u65e9\u3055": "767",
+      "\u8ce2\u3055": "456",
+      "\u904b": "407"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949383",
+    "name": "\u30ca\u30be\u30ce\u30c8\u30ab\u30b2",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "286",
+      "\u653b\u6483": "671",
+      "\u9632\u5fa1": "135",
+      "\u7d20\u65e9\u3055": "524",
+      "\u8ce2\u3055": "385",
+      "\u904b": "621"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949386",
+    "name": "\u30b4\u30d6\u30ea\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "426",
+      "\u653b\u6483": "571",
+      "\u9632\u5fa1": "504",
+      "\u7d20\u65e9\u3055": "521",
+      "\u8ce2\u3055": "504",
+      "\u904b": "476"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949389",
+    "name": "\u30b4\u30d6\u30ea\u30f3\u30d5\u30a1\u30c3\u30c8",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "662",
+      "\u653b\u6483": "507",
+      "\u9632\u5fa1": "381",
+      "\u7d20\u65e9\u3055": "331",
+      "\u8ce2\u3055": "407",
+      "\u904b": "662"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949392",
+    "name": "\u30b4\u30d6\u30ea\u30f3\u30c8\u30fc\u30eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "326",
+      "\u653b\u6483": "369",
+      "\u9632\u5fa1": "405",
+      "\u7d20\u65e9\u3055": "619",
+      "\u8ce2\u3055": "705",
+      "\u904b": "476"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949395",
+    "name": "\u81ea\u66b4\u81ea\u68c4\u306e\u50ad\u5175",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "246",
+      "\u653b\u6483": "661",
+      "\u9632\u5fa1": "594",
+      "\u7d20\u65e9\u3055": "511",
+      "\u8ce2\u3055": "494",
+      "\u904b": "496"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949398",
+    "name": "\u81ea\u66b4\u81ea\u68c4\u306e\u5f13\u5175",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "278",
+      "\u653b\u6483": "667",
+      "\u9632\u5fa1": "555",
+      "\u7d20\u65e9\u3055": "517",
+      "\u8ce2\u3055": "505",
+      "\u904b": "478"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949401",
+    "name": "\u30af\u30e2",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "284",
+      "\u653b\u6483": "615",
+      "\u9632\u5fa1": "302",
+      "\u7d20\u65e9\u3055": "484",
+      "\u8ce2\u3055": "715",
+      "\u904b": "602"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949404",
+    "name": "\u30b3\u30a6\u30e2\u30ea",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "509",
+      "\u653b\u6483": "564",
+      "\u9632\u5fa1": "427",
+      "\u7d20\u65e9\u3055": "714",
+      "\u8ce2\u3055": "409",
+      "\u904b": "377"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949407",
+    "name": "\u30ac\u30a4\u30b3\u30c4\u8239\u54e1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "379",
+      "\u653b\u6483": "662",
+      "\u9632\u5fa1": "459",
+      "\u7d20\u65e9\u3055": "509",
+      "\u8ce2\u3055": "329",
+      "\u904b": "662"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949410",
+    "name": "\u30be\u30a6",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "762",
+      "\u653b\u6483": "246",
+      "\u9632\u5fa1": "492",
+      "\u7d20\u65e9\u3055": "246",
+      "\u8ce2\u3055": "512",
+      "\u904b": "492"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949413",
+    "name": "\u30d8\u30d3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "395",
+      "\u653b\u6483": "672",
+      "\u9632\u5fa1": "333",
+      "\u7d20\u65e9\u3055": "622",
+      "\u8ce2\u3055": "383",
+      "\u904b": "595"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949416",
+    "name": "\u906d\u96e3\u8005",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "702",
+      "\u653b\u6483": "336",
+      "\u9632\u5fa1": "462",
+      "\u7d20\u65e9\u3055": "412",
+      "\u8ce2\u3055": "336",
+      "\u904b": "752"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949419",
+    "name": "\u6d77\u8cca\u8239\u54e1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "277",
+      "\u653b\u6483": "560",
+      "\u9632\u5fa1": "613",
+      "\u7d20\u65e9\u3055": "663",
+      "\u8ce2\u3055": "327",
+      "\u904b": "560"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949422",
+    "name": "\u30be\u30f3\u30d3\u306e\u5c11\u5e74",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "675",
+      "\u653b\u6483": "544",
+      "\u9632\u5fa1": "281",
+      "\u7d20\u65e9\u3055": "281",
+      "\u8ce2\u3055": "625",
+      "\u904b": "594"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949425",
+    "name": "\u30be\u30f3\u30d3\u306e\u5c11\u5973",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "668",
+      "\u653b\u6483": "541",
+      "\u9632\u5fa1": "291",
+      "\u7d20\u65e9\u3055": "291",
+      "\u8ce2\u3055": "618",
+      "\u904b": "591"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949428",
+    "name": "\u30be\u30f3\u30d3\u306e\u72ac",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "725",
+      "\u653b\u6483": "397",
+      "\u9632\u5fa1": "378",
+      "\u7d20\u65e9\u3055": "575",
+      "\u8ce2\u3055": "497",
+      "\u904b": "428"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949431",
+    "name": "\u30c9\u30fc\u30eb\u30b7\u30fc\u30d7",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "569",
+      "\u653b\u6483": "430",
+      "\u9632\u5fa1": "501",
+      "\u7d20\u65e9\u3055": "669",
+      "\u8ce2\u3055": "380",
+      "\u904b": "451"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949434",
+    "name": "\u5c0f\u9b3c",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "375",
+      "\u653b\u6483": "556",
+      "\u9632\u5fa1": "568",
+      "\u7d20\u65e9\u3055": "656",
+      "\u8ce2\u3055": "225",
+      "\u904b": "618"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949437",
+    "name": "\u30d2\u30c8\u30c0\u30de",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "489",
+      "\u653b\u6483": "564",
+      "\u9632\u5fa1": "447",
+      "\u7d20\u65e9\u3055": "389",
+      "\u8ce2\u3055": "397",
+      "\u904b": "714"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949440",
+    "name": "\u30ad\u30c4\u30cd",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "389",
+      "\u653b\u6483": "417",
+      "\u9632\u5fa1": "394",
+      "\u7d20\u65e9\u3055": "617",
+      "\u8ce2\u3055": "594",
+      "\u904b": "589"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949443",
+    "name": "\u30bf\u30cc\u30ad",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "704",
+      "\u653b\u6483": "182",
+      "\u9632\u5fa1": "514",
+      "\u7d20\u65e9\u3055": "432",
+      "\u8ce2\u3055": "654",
+      "\u904b": "514"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949446",
+    "name": "\u30ab\u30a8\u30eb",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "555",
+      "\u653b\u6483": "381",
+      "\u9632\u5fa1": "464",
+      "\u7d20\u65e9\u3055": "464",
+      "\u8ce2\u3055": "431",
+      "\u904b": "705"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949449",
+    "name": "\u30c8\u30ab\u30b2",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "446",
+      "\u653b\u6483": "452",
+      "\u9632\u5fa1": "502",
+      "\u7d20\u65e9\u3055": "802",
+      "\u8ce2\u3055": "402",
+      "\u904b": "396"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949452",
+    "name": "\u30d4\u30e9\u30cb\u30a2",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "297",
+      "\u653b\u6483": "710",
+      "\u9632\u5fa1": "393",
+      "\u7d20\u65e9\u3055": "710",
+      "\u8ce2\u3055": "397",
+      "\u904b": "493"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949455",
+    "name": "\u30df\u30a4\u30e9\u7537",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "426",
+      "\u653b\u6483": "565",
+      "\u9632\u5fa1": "508",
+      "\u7d20\u65e9\u3055": "326",
+      "\u8ce2\u3055": "558",
+      "\u904b": "615"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949458",
+    "name": "\u30bf\u30b3",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "611",
+      "\u653b\u6483": "395",
+      "\u9632\u5fa1": "494",
+      "\u7d20\u65e9\u3055": "445",
+      "\u8ce2\u3055": "561",
+      "\u904b": "494"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949461",
+    "name": "\u30af\u30e9\u30b2",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "296",
+      "\u653b\u6483": "651",
+      "\u9632\u5fa1": "452",
+      "\u7d20\u65e9\u3055": "346",
+      "\u8ce2\u3055": "601",
+      "\u904b": "502"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949464",
+    "name": "\u30d5\u30b0",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "445",
+      "\u653b\u6483": "617",
+      "\u9632\u5fa1": "288",
+      "\u7d20\u65e9\u3055": "388",
+      "\u8ce2\u3055": "445",
+      "\u904b": "517"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949467",
+    "name": "\u30ab\u30e9\u30b9",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "476",
+      "\u653b\u6483": "509",
+      "\u9632\u5fa1": "515",
+      "\u7d20\u65e9\u3055": "559",
+      "\u8ce2\u3055": "565",
+      "\u904b": "376"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949470",
+    "name": "\u30a6\u30b7",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "568",
+      "\u653b\u6483": "379",
+      "\u9632\u5fa1": "552",
+      "\u7d20\u65e9\u3055": "518",
+      "\u8ce2\u3055": "379",
+      "\u904b": "602"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949473",
+    "name": "\u30cd\u30ba\u30df",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "326",
+      "\u653b\u6483": "517",
+      "\u9632\u5fa1": "357",
+      "\u7d20\u65e9\u3055": "717",
+      "\u8ce2\u3055": "557",
+      "\u904b": "526"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949476",
+    "name": "\u30ab\u30d6\u30c8\u30e0\u30b7",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "281",
+      "\u653b\u6483": "514",
+      "\u9632\u5fa1": "505",
+      "\u7d20\u65e9\u3055": "281",
+      "\u8ce2\u3055": "555",
+      "\u904b": "714"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949479",
+    "name": "\u8776",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "335",
+      "\u653b\u6483": "474",
+      "\u9632\u5fa1": "341",
+      "\u7d20\u65e9\u3055": "385",
+      "\u8ce2\u3055": "624",
+      "\u904b": "491"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949482",
+    "name": "\u30cb\u30ef\u30c8\u30ea",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "515",
+      "\u653b\u6483": "437",
+      "\u9632\u5fa1": "398",
+      "\u7d20\u65e9\u3055": "615",
+      "\u8ce2\u3055": "398",
+      "\u904b": "487"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949485",
+    "name": "\u30cf\u30cb\u30ef\u5175",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "400",
+      "\u653b\u6483": "249",
+      "\u9632\u5fa1": "751",
+      "\u7d20\u65e9\u3055": "450",
+      "\u8ce2\u3055": "701",
+      "\u904b": "449"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949488",
+    "name": "\u8702",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "327",
+      "\u653b\u6483": "573",
+      "\u9632\u5fa1": "450",
+      "\u7d20\u65e9\u3055": "623",
+      "\u8ce2\u3055": "450",
+      "\u904b": "427"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949491",
+    "name": "\u9e7f",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "433",
+      "\u653b\u6483": "462",
+      "\u9632\u5fa1": "455",
+      "\u7d20\u65e9\u3055": "355",
+      "\u8ce2\u3055": "662",
+      "\u904b": "333"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77949494",
+    "name": "\u30bd\u30ea\u30c6\u30a3\u99ac\u304f\u3093",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "512",
+      "\u653b\u6483": "546",
+      "\u9632\u5fa1": "532",
+      "\u7d20\u65e9\u3055": "646",
+      "\u8ce2\u3055": "582",
+      "\u904b": "362"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77980202",
+    "name": "\u521d\u97f3\u30df\u30afV4X",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "651",
+      "\u653b\u6483": "430",
+      "\u9632\u5fa1": "509",
+      "\u7d20\u65e9\u3055": "551",
+      "\u8ce2\u3055": "509",
+      "\u904b": "530"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77966720",
+    "name": "\u30ac\u30c1\u30e3\u30d4\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "454",
+      "\u653b\u6483": "471",
+      "\u9632\u5fa1": "486",
+      "\u7d20\u65e9\u3055": "721",
+      "\u8ce2\u3055": "454",
+      "\u904b": "536"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77955059",
+    "name": "\u30da\u30f3\u30ae\u30f3",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "575",
+      "\u653b\u6483": "249",
+      "\u9632\u5fa1": "496",
+      "\u7d20\u65e9\u3055": "625",
+      "\u8ce2\u3055": "446",
+      "\u904b": "429"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77955047",
+    "name": "\u30d3\u30c3\u30b0\u30d5\u30c3\u30c8",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "634",
+      "\u653b\u6483": "624",
+      "\u9632\u5fa1": "302",
+      "\u7d20\u65e9\u3055": "534",
+      "\u8ce2\u3055": "302",
+      "\u904b": "724"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77954975",
+    "name": "\u30a2\u30ea\u30b5",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "424",
+      "\u653b\u6483": "639",
+      "\u9632\u5fa1": "527",
+      "\u7d20\u65e9\u3055": "527",
+      "\u8ce2\u3055": "424",
+      "\u904b": "639"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77954993",
+    "name": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "540",
+      "\u653b\u6483": "440",
+      "\u9632\u5fa1": "410",
+      "\u7d20\u65e9\u3055": "640",
+      "\u8ce2\u3055": "410",
+      "\u904b": "540"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77965871",
+    "name": "\u30bd\u30d5\u30a3\u30a2",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "521",
+      "\u653b\u6483": "544",
+      "\u9632\u5fa1": "525",
+      "\u7d20\u65e9\u3055": "544",
+      "\u8ce2\u3055": "525",
+      "\u904b": "521"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77965898",
+    "name": "\u30c0\u30a4\u30ca\u30df\u30c3\u30af\u2605\u30b8\u30a7\u30fc\u30f3",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "652",
+      "\u653b\u6483": "473",
+      "\u9632\u5fa1": "465",
+      "\u7d20\u65e9\u3055": "552",
+      "\u8ce2\u3055": "523",
+      "\u904b": "515"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77976944",
+    "name": "\u30a8\u30f4\u30a1",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "411",
+      "\u653b\u6483": "735",
+      "\u9632\u5fa1": "444",
+      "\u7d20\u65e9\u3055": "735",
+      "\u8ce2\u3055": "444",
+      "\u904b": "411"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77965982",
+    "name": "\u7167\u3089\u3059\u7537",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "629",
+      "\u653b\u6483": "464",
+      "\u9632\u5fa1": "467",
+      "\u7d20\u65e9\u3055": "464",
+      "\u8ce2\u3055": "467",
+      "\u904b": "629"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77966036",
+    "name": "\u307f\u306a\u3089\u3044\u8239\u54e1",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "584",
+      "\u653b\u6483": "440",
+      "\u9632\u5fa1": "506",
+      "\u7d20\u65e9\u3055": "456",
+      "\u8ce2\u3055": "634",
+      "\u904b": "440"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77966051",
+    "name": "\u30e0\u30c1\u4f7f\u3044\u306e\u6d77\u8cca",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "438",
+      "\u653b\u6483": "578",
+      "\u9632\u5fa1": "514",
+      "\u7d20\u65e9\u3055": "528",
+      "\u8ce2\u3055": "514",
+      "\u904b": "488"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77977007",
+    "name": "\u756a\u4eba\u30ab\u30a8\u30eb",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "616",
+      "\u653b\u6483": "352",
+      "\u9632\u5fa1": "692",
+      "\u7d20\u65e9\u3055": "466",
+      "\u8ce2\u3055": "452",
+      "\u904b": "542"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77977103",
+    "name": "\u30b1\u30a4\u30c8",
+    "attr": "\u6c34\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "654",
+      "\u653b\u6483": "470",
+      "\u9632\u5fa1": "466",
+      "\u7d20\u65e9\u3055": "554",
+      "\u8ce2\u3055": "520",
+      "\u904b": "516"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77991869",
+    "name": "\u30cf\u30aa\u30cf\u30aa",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "698",
+      "\u653b\u6483": "366",
+      "\u9632\u5fa1": "426",
+      "\u7d20\u65e9\u3055": "526",
+      "\u8ce2\u3055": "366",
+      "\u904b": "798"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77993066",
+    "name": "\u30eb\u30d3\u30fc",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "541",
+      "\u653b\u6483": "362",
+      "\u9632\u5fa1": "688",
+      "\u7d20\u65e9\u3055": "412",
+      "\u8ce2\u3055": "638",
+      "\u904b": "541"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77992151",
+    "name": "\u30a8\u30df\u30ea\u30fc",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "550",
+      "\u653b\u6483": "436",
+      "\u9632\u5fa1": "488",
+      "\u7d20\u65e9\u3055": "388",
+      "\u8ce2\u3055": "489",
+      "\u904b": "589"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77991893",
+    "name": "\u30c6\u30f3\u30e9\u30a4",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "489",
+      "\u653b\u6483": "620",
+      "\u9632\u5fa1": "330",
+      "\u7d20\u65e9\u3055": "575",
+      "\u8ce2\u3055": "375",
+      "\u904b": "489"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77992778",
+    "name": "\u30ab\u30e1\u8001\u5e2b",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "286",
+      "\u653b\u6483": "617",
+      "\u9632\u5fa1": "507",
+      "\u7d20\u65e9\u3055": "376",
+      "\u8ce2\u3055": "617",
+      "\u904b": "417"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77991905",
+    "name": "\u529b\u81ea\u6162\u306e\u6226\u58eb",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "377",
+      "\u653b\u6483": "619",
+      "\u9632\u5fa1": "414",
+      "\u7d20\u65e9\u3055": "484",
+      "\u8ce2\u3055": "377",
+      "\u904b": "459"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77991980",
+    "name": "\u6728\u4eba\u30ed\u30dc",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "457",
+      "\u653b\u6483": "231",
+      "\u9632\u5fa1": "602",
+      "\u7d20\u65e9\u3055": "367",
+      "\u8ce2\u3055": "366",
+      "\u904b": "467"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77991998",
+    "name": "\u9b54\u5f3e\u306e\u30ac\u30a4\u30b3\u30c4\u8239\u9577",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "370",
+      "\u653b\u6483": "424",
+      "\u9632\u5fa1": "316",
+      "\u7d20\u65e9\u3055": "415",
+      "\u8ce2\u3055": "514",
+      "\u904b": "406"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/77992853",
+    "name": "\u30d0\u30eb\u30bf\u30f3\u661f\u4eba",
+    "attr": "\u706b\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "380",
+      "\u653b\u6483": "365",
+      "\u9632\u5fa1": "530",
+      "\u7d20\u65e9\u3055": "380",
+      "\u8ce2\u3055": "575",
+      "\u904b": "455"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027137",
+    "name": "\u30c9\u30e9\u3048\u3082\u3093",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "411",
+      "\u653b\u6483": "697",
+      "\u9632\u5fa1": "482",
+      "\u7d20\u65e9\u3055": "411",
+      "\u8ce2\u3055": "647",
+      "\u904b": "532"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027407",
+    "name": "\u30c9\u30e9\u30df\u3061\u3083\u3093",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "647",
+      "\u653b\u6483": "480",
+      "\u9632\u5fa1": "463",
+      "\u7d20\u65e9\u3055": "363",
+      "\u8ce2\u3055": "697",
+      "\u904b": "530"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027215",
+    "name": "\u30d1\u30fc\u30de\u30f3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "371",
+      "\u653b\u6483": "582",
+      "\u9632\u5fa1": "397",
+      "\u7d20\u65e9\u3055": "582",
+      "\u8ce2\u3055": "442",
+      "\u904b": "416"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027227",
+    "name": "\u30d1\u30fc\u5b50",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "572",
+      "\u653b\u6483": "369",
+      "\u9632\u5fa1": "499",
+      "\u7d20\u65e9\u3055": "369",
+      "\u8ce2\u3055": "499",
+      "\u904b": "572"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78046316",
+    "name": "\u30b3\u30ed\u52a9",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "599",
+      "\u653b\u6483": "455",
+      "\u9632\u5fa1": "536",
+      "\u7d20\u65e9\u3055": "649",
+      "\u8ce2\u3055": "486",
+      "\u904b": "455"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027230",
+    "name": "\u30ea\u30fc\u30e0",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "466",
+      "\u653b\u6483": "591",
+      "\u9632\u5fa1": "383",
+      "\u7d20\u65e9\u3055": "501",
+      "\u8ce2\u3055": "466",
+      "\u904b": "473"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78046319",
+    "name": "\u4f50\u5009\u9b54\u7f8e",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "632",
+      "\u653b\u6483": "486",
+      "\u9632\u5fa1": "473",
+      "\u7d20\u65e9\u3055": "536",
+      "\u8ce2\u3055": "473",
+      "\u904b": "582"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027233",
+    "name": "\u30dd\u30b3\u30cb\u30e3\u30f3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "376",
+      "\u653b\u6483": "539",
+      "\u9632\u5fa1": "435",
+      "\u7d20\u65e9\u3055": "480",
+      "\u8ce2\u3055": "584",
+      "\u904b": "376"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027236",
+    "name": "\u30c7\u30f3\u30ab",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "535",
+      "\u653b\u6483": "490",
+      "\u9632\u5fa1": "415",
+      "\u7d20\u65e9\u3055": "370",
+      "\u8ce2\u3055": "445",
+      "\u904b": "625"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027212",
+    "name": "\u306e\u3073\u592a",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "515",
+      "\u653b\u6483": "524",
+      "\u9632\u5fa1": "521",
+      "\u7d20\u65e9\u3055": "421",
+      "\u8ce2\u3055": "415",
+      "\u904b": "624"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027239",
+    "name": "\u3057\u305a\u304b\u3061\u3083\u3093",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "573",
+      "\u653b\u6483": "319",
+      "\u9632\u5fa1": "428",
+      "\u7d20\u65e9\u3055": "428",
+      "\u8ce2\u3055": "618",
+      "\u904b": "409"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027242",
+    "name": "\u30b8\u30e3\u30a4\u30a2\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "450",
+      "\u653b\u6483": "582",
+      "\u9632\u5fa1": "378",
+      "\u7d20\u65e9\u3055": "450",
+      "\u8ce2\u3055": "423",
+      "\u904b": "537"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027245",
+    "name": "\u30b9\u30cd\u592b",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "371",
+      "\u653b\u6483": "401",
+      "\u9632\u5fa1": "368",
+      "\u7d20\u65e9\u3055": "581",
+      "\u8ce2\u3055": "503",
+      "\u904b": "371"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027248",
+    "name": "\u30d6\u30fc\u30d3\u30fc",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "419",
+      "\u653b\u6483": "475",
+      "\u9632\u5fa1": "426",
+      "\u7d20\u65e9\u3055": "565",
+      "\u8ce2\u3055": "516",
+      "\u904b": "419"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027218",
+    "name": "\u30d1\u30fc\u3084\u3093",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "397",
+      "\u653b\u6483": "522",
+      "\u9632\u5fa1": "641",
+      "\u7d20\u65e9\u3055": "447",
+      "\u8ce2\u3055": "591",
+      "\u904b": "522"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027251",
+    "name": "\u30ad\u30c6\u30ec\u30c4",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "408",
+      "\u653b\u6483": "377",
+      "\u9632\u5fa1": "446",
+      "\u7d20\u65e9\u3055": "422",
+      "\u8ce2\u3055": "671",
+      "\u904b": "498"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027221",
+    "name": "\u4e26\u5e73\u51e1",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "507",
+      "\u653b\u6483": "584",
+      "\u9632\u5fa1": "469",
+      "\u7d20\u65e9\u3055": "457",
+      "\u8ce2\u3055": "419",
+      "\u904b": "684"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027257",
+    "name": "\u30b3\u30f3\u30dd\u30b3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "411",
+      "\u653b\u6483": "582",
+      "\u9632\u5fa1": "418",
+      "\u7d20\u65e9\u3055": "627",
+      "\u8ce2\u3055": "418",
+      "\u904b": "366"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027254",
+    "name": "\u30c1\u30f3\u30d7\u30a4",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "433",
+      "\u653b\u6483": "364",
+      "\u9632\u5fa1": "479",
+      "\u7d20\u65e9\u3055": "409",
+      "\u8ce2\u3055": "524",
+      "\u904b": "478"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027224",
+    "name": "\u30a8\u30ea",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "625",
+      "\u653b\u6483": "486",
+      "\u9632\u5fa1": "450",
+      "\u7d20\u65e9\u3055": "486",
+      "\u8ce2\u3055": "450",
+      "\u904b": "625"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028547",
+    "name": "\u30e2\u30f3\u30ac\u30fc",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "363",
+      "\u653b\u6483": "377",
+      "\u9632\u5fa1": "625",
+      "\u7d20\u65e9\u3055": "363",
+      "\u8ce2\u3055": "467",
+      "\u904b": "535"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027260",
+    "name": "\u30b4\u30f3\u30b9\u30b1",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "464",
+      "\u653b\u6483": "366",
+      "\u9632\u5fa1": "580",
+      "\u7d20\u65e9\u3055": "374",
+      "\u8ce2\u3055": "490",
+      "\u904b": "366"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027263",
+    "name": "\u30d5\u30cb\u30e3\u30b3\u30d5\u30cb\u30e3\u592b",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "581",
+      "\u653b\u6483": "412",
+      "\u9632\u5fa1": "417",
+      "\u7d20\u65e9\u3055": "581",
+      "\u8ce2\u3055": "457",
+      "\u904b": "372"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027266",
+    "name": "\u30e2\u30b8\u30e3\u30e9",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "418",
+      "\u653b\u6483": "582",
+      "\u9632\u5fa1": "410",
+      "\u7d20\u65e9\u3055": "582",
+      "\u8ce2\u3055": "500",
+      "\u904b": "328"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78027269",
+    "name": "\u63a2\u691c\u5bb6\u306e\u30c9\u30e9\u3048\u3082\u3093",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "445",
+      "\u653b\u6483": "363",
+      "\u9632\u5fa1": "331",
+      "\u7d20\u65e9\u3055": "376",
+      "\u8ce2\u3055": "625",
+      "\u904b": "453"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028718",
+    "name": "\u30c6\u30a3\u30e9\u30ce\u30b5\u30a6\u30eb\u30b9",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "351",
+      "\u653b\u6483": "615",
+      "\u9632\u5fa1": "415",
+      "\u7d20\u65e9\u3055": "525",
+      "\u8ce2\u3055": "351",
+      "\u904b": "415"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028721",
+    "name": "\u30d7\u30c6\u30e9\u30ce\u30c9\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "393",
+      "\u653b\u6483": "463",
+      "\u9632\u5fa1": "434",
+      "\u7d20\u65e9\u3055": "598",
+      "\u8ce2\u3055": "348",
+      "\u904b": "434"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028724",
+    "name": "\u30c8\u30ea\u30b1\u30e9\u30c8\u30d7\u30b9",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "410",
+      "\u653b\u6483": "352",
+      "\u9632\u5fa1": "617",
+      "\u7d20\u65e9\u3055": "307",
+      "\u8ce2\u3055": "527",
+      "\u904b": "455"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028727",
+    "name": "\u60aa\u515a\u30ac\u30f3\u30de\u30f3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "459",
+      "\u653b\u6483": "572",
+      "\u9632\u5fa1": "349",
+      "\u7d20\u65e9\u3055": "527",
+      "\u8ce2\u3055": "504",
+      "\u904b": "349"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028730",
+    "name": "\u9a0e\u99ac\u30ac\u30f3\u30de\u30f3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "467",
+      "\u653b\u6483": "512",
+      "\u9632\u5fa1": "402",
+      "\u7d20\u65e9\u3055": "602",
+      "\u8ce2\u3055": "312",
+      "\u904b": "377"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028733",
+    "name": "\u5de8\u6f22\u30ac\u30f3\u30de\u30f3",
+    "attr": "\u5ca9\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "509",
+      "\u653b\u6483": "307",
+      "\u9632\u5fa1": "564",
+      "\u7d20\u65e9\u3055": "262",
+      "\u8ce2\u3055": "464",
+      "\u904b": "564"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028736",
+    "name": "\u7802\u6f20\u306e\u5263\u58eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "432",
+      "\u653b\u6483": "597",
+      "\u9632\u5fa1": "261",
+      "\u7d20\u65e9\u3055": "552",
+      "\u8ce2\u3055": "351",
+      "\u904b": "477"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028739",
+    "name": "\u30e9\u30f3\u30d7\u306e\u9b54\u795e",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "568",
+      "\u653b\u6483": "445",
+      "\u9632\u5fa1": "367",
+      "\u7d20\u65e9\u3055": "322",
+      "\u8ce2\u3055": "445",
+      "\u904b": "613"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028802",
+    "name": "\u7802\u6f20\u306e\u8e0a\u308a\u5b50",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "564",
+      "\u653b\u6483": "306",
+      "\u9632\u5fa1": "375",
+      "\u7d20\u65e9\u3055": "519",
+      "\u8ce2\u3055": "510",
+      "\u904b": "486"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78028814",
+    "name": "\u30e9\u30af\u30c0",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "657",
+      "\u653b\u6483": "264",
+      "\u9632\u5fa1": "459",
+      "\u7d20\u65e9\u3055": "264",
+      "\u8ce2\u3055": "522",
+      "\u904b": "504"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78086504",
+    "name": "\u9152\u5451\u2606DOJI",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "627",
+      "\u653b\u6483": "464",
+      "\u9632\u5fa1": "700",
+      "\u7d20\u65e9\u3055": "427",
+      "\u8ce2\u3055": "414",
+      "\u904b": "500"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78077495",
+    "name": "\u30ec\u30c7\u30a3\u30fb\u30b9\u30ce\u30a6",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "595",
+      "\u653b\u6483": "358",
+      "\u9632\u5fa1": "487",
+      "\u7d20\u65e9\u3055": "358",
+      "\u8ce2\u3055": "645",
+      "\u904b": "587"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78079025",
+    "name": "\u30d5\u30a3\u30af\u30b5\u30fc\u30fbN",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "478",
+      "\u653b\u6483": "496",
+      "\u9632\u5fa1": "376",
+      "\u7d20\u65e9\u3055": "631",
+      "\u8ce2\u3055": "478",
+      "\u904b": "331"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78077498",
+    "name": "\u30c6\u30de\u30ea\u3061\u3083\u3093",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "488",
+      "\u653b\u6483": "290",
+      "\u9632\u5fa1": "482",
+      "\u7d20\u65e9\u3055": "578",
+      "\u8ce2\u3055": "380",
+      "\u904b": "662"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78077501",
+    "name": "\u306c\u308a\u304b\u3079DOG",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "324",
+      "\u653b\u6483": "473",
+      "\u9632\u5fa1": "613",
+      "\u7d20\u65e9\u3055": "383",
+      "\u8ce2\u3055": "324",
+      "\u904b": "568"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78077504",
+    "name": "\u6709\u9802\u5929\u72d7",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "538",
+      "\u653b\u6483": "285",
+      "\u9632\u5fa1": "453",
+      "\u7d20\u65e9\u3055": "583",
+      "\u8ce2\u3055": "285",
+      "\u904b": "543"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78077507",
+    "name": "\u6e80\u305f\u3055\u308c\u305f\u4eba",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "546",
+      "\u653b\u6483": "419",
+      "\u9632\u5fa1": "595",
+      "\u7d20\u65e9\u3055": "346",
+      "\u8ce2\u3055": "369",
+      "\u904b": "754"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78077510",
+    "name": "\u967d\u6c17\u306a\u9b3c\u5c06\u8ecd",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "375",
+      "\u653b\u6483": "364",
+      "\u9632\u5fa1": "580",
+      "\u7d20\u65e9\u3055": "364",
+      "\u8ce2\u3055": "375",
+      "\u904b": "625"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78078107",
+    "name": "\u30a2\u30b2\u30a2\u30b2\u30c9\u30af\u30ed",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "466",
+      "\u653b\u6483": "561",
+      "\u9632\u5fa1": "353",
+      "\u7d20\u65e9\u3055": "511",
+      "\u8ce2\u3055": "308",
+      "\u904b": "561"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78078131",
+    "name": "\u30ce\u30ea\u30ce\u30ea\u306a\u30ab\u30c3\u30d1",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "479",
+      "\u653b\u6483": "462",
+      "\u9632\u5fa1": "394",
+      "\u7d20\u65e9\u3055": "524",
+      "\u8ce2\u3055": "304",
+      "\u904b": "552"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78078134",
+    "name": "\u5fcd\u3093\u3067\u3044\u306a\u3044\u8005",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "464",
+      "\u653b\u6483": "472",
+      "\u9632\u5fa1": "309",
+      "\u7d20\u65e9\u3055": "562",
+      "\u8ce2\u3055": "419",
+      "\u904b": "399"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78078137",
+    "name": "\u60aa\u30ce\u30ea\u69cd\u4f7f\u3044",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "303",
+      "\u653b\u6483": "562",
+      "\u9632\u5fa1": "470",
+      "\u7d20\u65e9\u3055": "380",
+      "\u8ce2\u3055": "348",
+      "\u904b": "562"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78078140",
+    "name": "\u30ce\u30ea\u304d\u308c\u306a\u3044\u5f13\u4f7f\u3044",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "517",
+      "\u653b\u6483": "617",
+      "\u9632\u5fa1": "396",
+      "\u7d20\u65e9\u3055": "567",
+      "\u8ce2\u3055": "346",
+      "\u904b": "467"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78078143",
+    "name": "\u306f\u3057\u3083\u3044\u3060\u5c0f\u9b3c",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "352",
+      "\u653b\u6483": "500",
+      "\u9632\u5fa1": "408",
+      "\u7d20\u65e9\u3055": "498",
+      "\u8ce2\u3055": "307",
+      "\u904b": "545"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78090443",
+    "name": "\u30db\u30b7\u30aa\u304f\u3093",
+    "attr": "\u95c7\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "386",
+      "\u653b\u6483": "390",
+      "\u9632\u5fa1": "394",
+      "\u7d20\u65e9\u3055": "484",
+      "\u8ce2\u3055": "431",
+      "\u904b": "570"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78098360",
+    "name": "\u30cd\u30b3\uff08\u30af\u30ed\uff09",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "216",
+      "\u653b\u6483": "479",
+      "\u9632\u5fa1": "235",
+      "\u7d20\u65e9\u3055": "749",
+      "\u8ce2\u3055": "640",
+      "\u904b": "351"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78098363",
+    "name": "\u30cd\u30b3\uff08\u30cf\u30c1\u30ef\u30ec\uff09",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "259",
+      "\u653b\u6483": "520",
+      "\u9632\u5fa1": "331",
+      "\u7d20\u65e9\u3055": "700",
+      "\u8ce2\u3055": "466",
+      "\u904b": "394"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78098789",
+    "name": "\u30cd\u30b3\uff08\u30df\u30b1\uff09",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "233",
+      "\u653b\u6483": "479",
+      "\u9632\u5fa1": "308",
+      "\u7d20\u65e9\u3055": "458",
+      "\u8ce2\u3055": "659",
+      "\u904b": "533"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78098369",
+    "name": "\u30cd\u30b3\uff08\u30b5\u30d0\u30c8\u30e9\uff09",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "321",
+      "\u653b\u6483": "601",
+      "\u9632\u5fa1": "278",
+      "\u7d20\u65e9\u3055": "601",
+      "\u8ce2\u3055": "413",
+      "\u904b": "456"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78098372",
+    "name": "\u30cd\u30b3\uff08\u30c1\u30e3\u30c8\u30e9\uff09",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "304",
+      "\u653b\u6483": "429",
+      "\u9632\u5fa1": "422",
+      "\u7d20\u65e9\u3055": "564",
+      "\u8ce2\u3055": "557",
+      "\u904b": "394"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111440",
+    "name": "\u521d\u97f3\u30df\u30af",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "466",
+      "\u653b\u6483": "643",
+      "\u9632\u5fa1": "481",
+      "\u7d20\u65e9\u3055": "366",
+      "\u8ce2\u3055": "531",
+      "\u904b": "693"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111443",
+    "name": "\u93e1\u97f3\u30ea\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "641",
+      "\u653b\u6483": "490",
+      "\u9632\u5fa1": "460",
+      "\u7d20\u65e9\u3055": "641",
+      "\u8ce2\u3055": "410",
+      "\u904b": "540"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111446",
+    "name": "\u93e1\u97f3\u30ec\u30f3",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "536",
+      "\u653b\u6483": "348",
+      "\u9632\u5fa1": "626",
+      "\u7d20\u65e9\u3055": "536",
+      "\u8ce2\u3055": "448",
+      "\u904b": "626"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111449",
+    "name": "\u5de1\u97f3\u30eb\u30ab",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "521",
+      "\u653b\u6483": "473",
+      "\u9632\u5fa1": "442",
+      "\u7d20\u65e9\u3055": "390",
+      "\u8ce2\u3055": "620",
+      "\u904b": "437"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111452",
+    "name": "KAITO MM24",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "438",
+      "\u653b\u6483": "433",
+      "\u9632\u5fa1": "573",
+      "\u7d20\u65e9\u3055": "485",
+      "\u8ce2\u3055": "432",
+      "\u904b": "534"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111467",
+    "name": "MEIKO MM24",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "569",
+      "\u653b\u6483": "468",
+      "\u9632\u5fa1": "395",
+      "\u7d20\u65e9\u3055": "480",
+      "\u8ce2\u3055": "425",
+      "\u904b": "527"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78126275",
+    "name": "\u521d\u97f3\u30df\u30af MM24",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "467",
+      "\u653b\u6483": "547",
+      "\u9632\u5fa1": "476",
+      "\u7d20\u65e9\u3055": "697",
+      "\u8ce2\u3055": "526",
+      "\u904b": "467"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111650",
+    "name": "\u93e1\u97f3\u30ec\u30f3 MM24",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "371",
+      "\u653b\u6483": "529",
+      "\u9632\u5fa1": "496",
+      "\u7d20\u65e9\u3055": "529",
+      "\u8ce2\u3055": "496",
+      "\u904b": "371"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111656",
+    "name": "\u93e1\u97f3\u30ea\u30f3 MM24",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "499",
+      "\u653b\u6483": "432",
+      "\u9632\u5fa1": "419",
+      "\u7d20\u65e9\u3055": "589",
+      "\u8ce2\u3055": "477",
+      "\u904b": "464"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78111662",
+    "name": "\u5de1\u97f3\u30eb\u30ab MM24",
+    "attr": "\u8349\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "587",
+      "\u653b\u6483": "439",
+      "\u9632\u5fa1": "414",
+      "\u7d20\u65e9\u3055": "439",
+      "\u8ce2\u3055": "587",
+      "\u904b": "414"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78149288",
+    "name": "\u30b9\u30c8\u30fc\u30e0\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "560",
+      "\u653b\u6483": "289",
+      "\u9632\u5fa1": "560",
+      "\u7d20\u65e9\u3055": "560",
+      "\u8ce2\u3055": "425",
+      "\u904b": "424"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78149330",
+    "name": "\u30dc\u30eb\u30c8\u30c9\u30e9\u30b4\u30f3",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u9060\u8ddd\u96e2",
+    "vignette": "2",
+    "stat": {
+      "HP": "374",
+      "\u653b\u6483": "664",
+      "\u9632\u5fa1": "372",
+      "\u7d20\u65e9\u3055": "709",
+      "\u8ce2\u3055": "372",
+      "\u904b": "329"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156002",
+    "name": "\u30a2\u30f3\u30d0\u30fc",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "428",
+      "\u653b\u6483": "469",
+      "\u9632\u5fa1": "693",
+      "\u7d20\u65e9\u3055": "419",
+      "\u8ce2\u3055": "428",
+      "\u904b": "743"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156008",
+    "name": "\u30b8\u30eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "531",
+      "\u653b\u6483": "643",
+      "\u9632\u5fa1": "417",
+      "\u7d20\u65e9\u3055": "693",
+      "\u8ce2\u3055": "531",
+      "\u904b": "367"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156011",
+    "name": "\u30b8\u30e5\u30a8\u30e9\u30fc\u30fb\u30d4\u30c3\u30b0",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "535",
+      "\u653b\u6483": "409",
+      "\u9632\u5fa1": "646",
+      "\u7d20\u65e9\u3055": "359",
+      "\u8ce2\u3055": "535",
+      "\u904b": "696"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156014",
+    "name": "\u6398\u524a\u30ed\u30dc",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "352",
+      "\u653b\u6483": "514",
+      "\u9632\u5fa1": "694",
+      "\u7d20\u65e9\u3055": "514",
+      "\u8ce2\u3055": "644",
+      "\u904b": "402"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156017",
+    "name": "\u5f37\u6b32\u306a\u4fdd\u5b89\u5b98",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "412",
+      "\u653b\u6483": "624",
+      "\u9632\u5fa1": "524",
+      "\u7d20\u65e9\u3055": "624",
+      "\u8ce2\u3055": "412",
+      "\u904b": "524"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156020",
+    "name": "\u6b32\u5f35\u308a\u306a\u6226\u58eb",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u8fd1\u8ddd\u96e2",
+    "vignette": "1",
+    "stat": {
+      "HP": "353",
+      "\u653b\u6483": "632",
+      "\u9632\u5fa1": "575",
+      "\u7d20\u65e9\u3055": "582",
+      "\u8ce2\u3055": "303",
+      "\u904b": "525"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156023",
+    "name": "\u9271\u5c71\u306e\u7537",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "3",
+    "stat": {
+      "HP": "497",
+      "\u653b\u6483": "626",
+      "\u9632\u5fa1": "407",
+      "\u7d20\u65e9\u3055": "526",
+      "\u8ce2\u3055": "497",
+      "\u904b": "507"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156026",
+    "name": "\u70ad\u9271\u306e\u304a\u3058\u3044\u3055\u3093",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "5",
+    "stat": {
+      "HP": "524",
+      "\u653b\u6483": "517",
+      "\u9632\u5fa1": "339",
+      "\u7d20\u65e9\u3055": "424",
+      "\u8ce2\u3055": "389",
+      "\u904b": "617"
+    }
+  },
+  {
+    "url": "https://appmedia.jp/pando-land/78156029",
+    "name": "\u7121\u6b32\u306e\u30cf\u30cb\u30ef",
+    "attr": "\u5149\u5c5e\u6027",
+    "range": "\u4e2d\u8ddd\u96e2",
+    "vignette": "4",
+    "stat": {
+      "HP": "387",
+      "\u653b\u6483": "467",
+      "\u9632\u5fa1": "627",
+      "\u7d20\u65e9\u3055": "627",
+      "\u8ce2\u3055": "387",
+      "\u904b": "567"
+    }
+  }
+]
