@@ -46,7 +46,6 @@ def load_json():
         return {}
 
 
-
 def main():
     force_update = 1
     data = load_json()
@@ -59,27 +58,22 @@ def main():
         for tr in unit_trs:
             td = tr.ele("tag:td")
             unit_name = td.text
-            # d = data.get(unit_name, {})
-            d = data[unit_name]
+            d = data.get(unit_name, {})
             d["url"] = td.ele("tag:a").link
             d["attr"] = tr.attr("data-ele")
             d["range"] = tr.attr("data-type")
             d["rarity"] = tr.attr("data-rare")
             d["vignette"] = tr.attr("data-team_vig")
             data[unit_name] = d
-
-
-        print(data)
         save_json(data)
 
-    si = save_interval = 100
+    si = save_interval = 10
     for unit_name in tqdm(data.keys()):
         if force_update==2 or "stat" not in data[unit_name] or len(data[unit_name]["stat"])!=6:
             page.get(data[unit_name]["url"])
             stat_tds = page.eles('css:.post-content h3+table tr:nth-child(even) td')
             stath_tds = page.eles('css:.post-content h3+table tr:nth-child(odd) th')
             data[unit_name]["stat"] = dict([(x[0].text, x[1].text) for x in zip(stath_tds, stat_tds) if x[0].text in stat_headers])
-            print(data[unit_name])
             si -= 1
             if si==0:
                 si = save_interval
