@@ -9,13 +9,15 @@ stat_headers = ["HP", "攻撃", "防御", "素早さ", "賢さ", "運"]
 def export_csv(data):
     delimiter = "\t"
     print("Export data to csv")
-    header = ["unit", "rarity", "attribute", "range", "vignette"] + stat_headers + ["Total"]
+    header = ["id", "unit", "rarity", "attribute", "range", "vignette", "cooldown", "effects"] + stat_headers + ["Total"]
     with open("clean.csv", "w+", encoding='UTF-8') as f:
         f.write(delimiter.join(header)+"\n")
+        i = 0
         for name, d in tqdm(data.items()):
-            row = []
+            i += 1
+            row = [str(i)]
             row.append(f'=HYPERLINK(\"{d["url"]}\", \"{name}\")')
-            row += [d["rarity"], d["attr"], d["range"], d["vignette"]]
+            row += [d["rarity"], d["attr"], d["range"], d["vignette"], d["cooldown"], d["skill_effects"]]
             stat_total = 0
             for stat_h in stat_headers:
                 stat = int(d["stat"][stat_h])
@@ -52,6 +54,7 @@ def main():
     page = ChromiumPage()
 
     if not data or force_update==1:
+        print("Updating Unit list")
         units_url = 'https://appmedia.jp/pando-land/77945405'
         page.get(units_url)
         unit_trs = page.eles("css:tr.single_data")
@@ -67,7 +70,23 @@ def main():
             data[unit_name] = d
         save_json(data)
 
+    print("Getting skill effects & cd")
+    skills_url = "https://appmedia.jp/pando-land/77945846"
+    page.get(skills_url)
+    skill_trs = page.eles("css:tr.single_data")
+    for tr in tqdm(skill_trs):
+        td = tr.ele("tag:td")
+        unit_name = td.text
+        d = data.get(unit_name, {})
+
+        d["skill_effects"] = tr.attr("data-skill_effect")
+        cd_text = tr.ele("css:td:last-child div:last-child").text
+        d["cooldown"] = cd_text.split("：")[1].strip()
+        data[unit_name] = d
+    save_json(data)
+
     si = save_interval = 10
+    print("Getting unit stats")
     for unit_name in tqdm(data.keys()):
         if force_update==2 or "stat" not in data[unit_name] or len(data[unit_name]["stat"])!=6:
             page.get(data[unit_name]["url"])
